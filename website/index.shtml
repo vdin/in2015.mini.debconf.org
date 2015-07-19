@@ -1013,21 +1013,26 @@
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Location</h1>
                     <div class="divider"></div>
+						<p>College of Engineering Pune,
+							Wellesely Rd,
+							Shivajinagar,
+							Pune-411 005.
+							Maharashtra, INDIA.
+						</p>
+
 
                     <p><img style="width: 153px; height: 150px; background: #fff;" src="https://upload.wikimedia.org/wikipedia/en/f/f0/College_of_Engineering%2C_Pune_logo.jpg" align="left"><strong>College of Engineering Pune</strong> <br>College of Engineering, Pune (COEP) is an autonomous engineering college with an affiliation to the University of Pune in Pune, Maharashtra, India. Established in 1854, it is one of the oldest engineering college in Asia, after IIT Roorkee (1847)</p>
+                    <p>COEP requires no landmark, the college itself is a well known place throughout Pune. It is located on the Pune station road in Shivajinagar. Nothing needs to be said about its accessibility, its absolutely fantastic.</p>
                     
                     <p><strong>Directions:</strong></p>
 					<p><u>Public Transport</u></p>
-					<p>Pune has a reliable public transport networked by PMPML Buses, Taxis and Auto rickshaws. The nearest railway station to COEP on the Central line (connecting CST, Dadar, Kurla, Thane, Kalyan) are Vikhroli and Kanjurmarg stations. The nearest station to IIT on the Western line (connecting Church-gate, Mumbai Central, Dadar, Bandra, Andheri, Borivali) is Andheri.</p>
-					<p><u>Suburban Railway Transport:</u></p>
-					<p>	<u>From CST Station/Dadar</u><em>:&nbsp;</em><br>
-					Take a slow train on the Central line to Thane/Kalyan/Karjat. Get down at Vikhroli or Kanjurmarg station. Take an auto to IIT, Powai (fare up to Rs 30). Enter the campus from the Market gate (the first gate you come across).&nbsp;</p>
-					<p><u>From Mumbai Central/Church-gate</u>:<br>
-					Take a fast or slow train on the Western line to Andheri/Borivali/Virar. Get down at Andheri Station and come towards the East side of the station. Take bus or auto (fare up to Rs 200) or taxi (fare up to Rs 350) to IIT, Powai . Enter the campus from the Main gate (the first gate you come across).</p>
-					<p>Alternatively, you can get down at Dadar station and change platform to the central line. Take a slow train on the line to Thane/Kalyan/Karjat. Get down at Vikhroli or Kanjurmarg station. Take an auto to IIT, Powai (fare upto Rs 30). Enter the campus from the Market gate (the first gate you come across).</p>
+					<p>Pune has a reliable public transport networked by PMPML Buses, Taxis and Auto rickshaws. COEP is easily acessible by any one of them.</p>
+					<p><u>Railway Transport:</u></p>
+					<p>	Pune is one of the major and most important railway junctions on the Indian railway. The city connects with major other cities of the country which makes it quite easy to answer how to reach Pune via railways. </p>
+					 <p>After reaching Pune Station, you can take an auto or cab to reach COEP.</p>
 					<p><u>If you come by Air</u>:<br>
-					International flights land at Sahar Airport which is about 8 kms from IIT. The Domestic Airport- at SantaCruz is about 12 kms. Its' best to take a Pre-paid taxi (costs about Rs 350 - 500 (US $ 8.00 -12.00) from Airport to IIT Bombay, Powai) available at the Airport to come to IIT. Auto rickshaws and regular taxis are also available at both the airports for reaching IIT, Powai.</p>
-					<p>For more information check: <a href="http://www.iitb.ac.in/campus/howto/howtoget.html" target="_blank">How to get to IITB</a></p>
+					Pune airport is situated almost 10 kilometers from the heart of the city which is located in the Lohagaon area. Outside the airport, one can easily get a taxi and major other bus services to reach the city.</p>
+					 <p>For more information check: <a href="http://www.goibibo.com/travel-guide/india/destination-pune/how-to-reach/" target="_blank">How to get to Pune</a></p>
                     
                 </div>
                 
@@ -1071,7 +1076,7 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Contact Us</h1>
                     <div class="divider"></div>
-                    <p>If you would like to contact us or volunteer for the event, please get in touch on the Mini-DebConf India Mailing List. This website's code is available on <a href="https://github.com/rigved/in2015.mini.debconf.org" target="_blank">GitHub</a>.</p>
+                    <p>If you have any queries regarding the event or would like to volunteer for the event, get in touch with us on <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a></p>
                 </div>
                 <div class="row">
                     <div class="col-md-12">
@@ -1094,6 +1099,18 @@
 -->
                             </div>                            
                             <div class="col-md-4 col-sm-4 contact-details scrollpoint sp-effect2">
+                            	<div class="media">
+                                    <a href="#contactus" class="pull-left">
+                                        <i class="fa fa-envelope fa-2x"></i>
+                                    </a>
+                                    <div class="media-body">
+                                        <h4 class="media-heading">
+                                        	  <a target="_blank" href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a>
+                                        </h4>
+                                    </div>
+                                    
+                                </div>
+                            	
                                 <div class="media">
                                     <a class="pull-left" href="#contactus" >
                                         <i class="fa fa-map-marker fa-2x"></i>
@@ -1123,16 +1140,7 @@
                                         </h4>
                                     </div>
                                 </div>
-                                <div class="media">
-                                    <a href="#contactus" class="pull-left">
-                                        <i class="fa fa-envelope fa-2x"></i>
-                                    </a>
-                                    <div class="media-body">
-                                        <h4 class="media-heading">
-                                        	  <a target="_blank" href="mailto:debian[at]shieldofachilles[dot]in">minidebconfpune@openmailbox.org</a>
-                                        </h4>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -1146,9 +1154,15 @@
                     <img src="img/berry/logo.png" alt="" class="logo">
                 </a>
                 <div class="social">
-                    <a href="https://twitter.com/MiniDebConfMum" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
-                    <a href="https://plus.google.com/114516694850767309355" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>
-                    <a href="https://www.facebook.com/MiniDebConfMumbai" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
+                	<!--<a href="http://sharetodiaspora.github.io/?title=Your title here&url=http://www.in2015.mini.debconf.org/" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-twitter fa-lg"></i>
+					<img src="http://sharetodiaspora.github.io/favicon.png" style="border: 0px solid;" />
+					</a>-->
+                  
+                    <a href="https://twitter.com/miniDebConfPune" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+                    <!--<a href="https://plus.google.com/114516694850767309355" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>-->
+                    <a href="https://www.facebook.com/miniDebConfPune?ref=hl" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
+
+
                 </div>
                 <div class="rights">
                     <p>Copyright &copy;  DebianIN</p>
